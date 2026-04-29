@@ -25,7 +25,7 @@ This Power BI dashboard analyzes Adidas sales data to provide clear business ins
 - Business Insight Visualization
 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ### Executive Dashboard
 
